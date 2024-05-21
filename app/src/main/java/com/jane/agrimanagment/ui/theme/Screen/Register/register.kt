@@ -132,7 +132,7 @@ fun RegisterScreen(navController: NavController){
         },
        modifier = Modifier.fillMaxWidth()
         ) {
-            Text(text = "Have an Account? Click to Login")
+            Text(text = "pleas enter your email and password")
         }
 
     }
