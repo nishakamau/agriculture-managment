@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136506078128",
+    "project_id": "agri-managment",
+    "storage_bucket": "agri-managment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136506078128:android:9f3fab2ab952588c0e5c75",
+        "android_client_info": {
+          "package_name": "com.jane.agrimanagment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhbmq1MhJu0zmwj7HKRYn9fgdtycJn4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
